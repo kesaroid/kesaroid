@@ -9,7 +9,7 @@ My path from electronics to deep learning has been defined by curiosity, perseve
 ## 🎓 Education Journey
 
 <details>
-<summary><b>B.E. in Electronics and Communication</b></summary>
+<summary>B.E. in Electronics and Communication</summary>
 - Growing up, I loved building household appliances on PCBs; 
 - Electronics came naturally to me, along with building niche tools.
 - Discovered the domain of Machine Learning through a hackathon in early 2017 — after 24 hours of hands-on learning, my team secured **2nd place** 🥈  
@@ -17,7 +17,7 @@ My path from electronics to deep learning has been defined by curiosity, perseve
 </details>
 
 <details>
-<summary><b>Professional Beginnings — Xenon Automotive</b></summary>
+<summary>Professional Beginnings — Xenon Automotive</summary>
 
 - Joined **Xenon Automotive**, contributing to **ClearQuote**, a computer vision product detecting vehicle defects for instant repair estimates.  
 - My models powered tools used by **insurance companies** and **major auto manufacturers**.  
@@ -25,7 +25,7 @@ My path from electronics to deep learning has been defined by curiosity, perseve
 </details>
 
 <details>
-<summary><b>M.S. in Computer Science, University of Central Florida 🎓</b></summary>
+<summary>M.S. in Computer Science, University of Central Florida 🎓</summary>
 
 - Specialized in **Machine Learning & Computer Vision**.  
 - Conducted thesis research under **Prof. Mubarak Shah & Prof. Lobo** on  
