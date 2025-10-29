@@ -1,4 +1,5 @@
-# 🧠 Kesar Murthy — Machine Learning Engineer
+# Kesar Murthy 
+### Machine Learning Engineer
 
 Hi there! 👋  
 I'm **Kesar Murthy**, a Machine Learning Engineer passionate about building **AI-driven products** that make a real-world impact.  
@@ -66,7 +67,8 @@ I design **end-to-end intelligent systems**, integrating computer vision, data p
 > “Automation excites me — not because it replaces effort, but because it amplifies human creativity.”
 
 I enjoy connecting research with real-world use cases — designing systems that are **practical, intelligent, and impactful**.  
-If you share similar passions or want to collaborate, feel free to connect! 🤝
+
+##### Feel free to connect if you share similar passions or want to collaborate! 🤝
 
 ---
 
