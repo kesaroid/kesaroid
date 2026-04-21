@@ -3,7 +3,9 @@
 
 Hi there! 👋  
 I'm **Kesar Murthy**, a Machine Learning Engineer passionate about building **AI-driven products** that make a real-world impact.  
-My path from electronics to deep learning has been defined by curiosity, perseverance, and a love for turning ideas into scalable systems.
+My path from electronics to deep learning has been defined by curiosity, and a love for turning ideas into scalable systems.
+
+I design, build, and ship AI systems at scale — specializing in computer vision and real-time inference, with a track record of taking models from research to production. with expertise in distributed training, GPU acceleration, real-time inference, and production deployments across cloud environments.
 
 ---
 
@@ -36,7 +38,7 @@ My path from electronics to deep learning has been defined by curiosity, perseve
 
 ---
 
-## 🏭 Current Role — @ **Chep**
+## 🏭 **Chep**
 
 > **Chep** is a global leader in logistics and supply-chain innovation.
 
